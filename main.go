@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Percona-Lab/mysql_random_data_load/internal/getters"
-	"github.com/Percona-Lab/mysql_random_data_load/tableparser"
+	"github.com/ichirin2501/mysql_random_data_load/internal/getters"
+	"github.com/ichirin2501/mysql_random_data_load/tableparser"
 	"github.com/go-ini/ini"
 	"github.com/go-sql-driver/mysql"
 	"github.com/gosuri/uiprogress"
